@@ -1,2 +1,3 @@
 # Beginning_python
-记录一些简单的代码
+一些简单的代码
+ 
